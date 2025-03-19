@@ -35,4 +35,14 @@ Por ello una solucion para este problema es el computo en la nube (Cloud Computi
 
 ## What is cloud computing?
 
+El computo en la nube es el acceso **on-demand** de poder de computo, almacenamieto de bases de datos,aplicaciones y otros recursos de IT.
+
+Una de las caracteristicas de los servicios de computo en la nube es el modelo de pago  **pay-as-you-go**, es decir pagas de acuerdo a los recursos usados.
+Además de que puedes ocupar exactamente el tipo y tamaño de los recursos de computo que necesitas.
+
+Otra de las ventajas es que se pueden acceder a tantos recursos como sean necesarios de manera inmediata de forma sencilla.
+
+
+> En este caso Amazon Web Services son los dueños y quienes mantienen el hardware necesario para estos servicios, mientras que te proveen del servicio y uso de estos recursos mediante una aplicacion web.
+
 
