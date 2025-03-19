@@ -83,10 +83,12 @@ nube usados por una organizacion, no son expuestos al publico.
 
     Los precios se reducen ya que AWS es mas eficiente por ser a gran escala.
 - **Stop guessing capacity**
+    
     Escalabilidad basada en el uso real.
 - **Increase speed and agility**
 - **Stop spending money running and mantaining data centers**
 - **Go global in minutes**
+    
     Aprovechando la infraestructura global de AWS.
 
 ### Problems solved by the Cloud
