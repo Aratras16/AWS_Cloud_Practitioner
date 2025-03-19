@@ -24,3 +24,14 @@ Para que el cliente pueda encontrar el servidor y viceversa se necesita algo lla
         - Switch (Toman un paquete de informacion y la envian al servidor o al cliente correcto)
 ![alt text](image-1.png)
 
+### Problemas con el acercamiento tradicional 
+- Se necesita pagar por electricidad, refrigeracion, mantenimiento.
+- El almacenamiento de los servidores puede ser costoso por rentas.
+- Añadir o reemplazar hardware lleva tiempo.
+- La escalabilidad es limitada.
+- Se necesita tener un equipo 24/7 que monitoree la infraestructura.
+
+Por ello una solucion para este problema es el computo en la nube (Cloud Computing)
+
+## What is cloud computing?
+
