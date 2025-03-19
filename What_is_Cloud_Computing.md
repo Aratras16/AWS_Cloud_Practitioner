@@ -45,4 +45,34 @@ Otra de las ventajas es que se pueden acceder a tantos recursos como sean necesa
 
 > En este caso Amazon Web Services son los dueños y quienes mantienen el hardware necesario para estos servicios, mientras que te proveen del servicio y uso de estos recursos mediante una aplicacion web.
 
+### The deployment Models of the Cloud
+#### Private Cloud
+- Servicios de la
+nube usados por una organizacion, no son expuestos al publico.
+- Control total por parte del negocio.
+- Seguridad para aplicaciones sensibles.
+- Soluciona necesidades especificas de negocios.
+#### Public Cloud
+- Recursos de la nube operadas y manejadas por un proveedor externo accesibles via internet.
+- Ventajas de la computacion en la nube 
 
+#### Hybrid Cloud
+- Mantiene algunos servidores **on-premise**  y extiende sus capacidades con la ayuda de la nube.
+- Control sobre datos sensibles en una infraestructura privada.
+- Flexibilidad y eficiencia de costo usando la nube publica.
+
+### The Five Characteristics of Cloud Computing
+- **On-demand self service** 
+    - Los usuarios tienen a su disposicion recursos y pueden usarlos sin la necesidad de la interaccion humana del proveedor del servicio.
+- **Broad network access**
+    - Los recursos estan disponibles en la red y se puede acceder a ellos mediante distintas plataformas.
+- **Multi-tenancy and resource pooling**
+    - Varios usuarios pueden compartir la misma infraestructura y aplicaciones con segurad y privacidad.
+    - Multiples usuarios utilizan los mismos recursos fisicos.
+- **Rapid elasticity and scalability**
+    - Adquisicion/Deposicion automatica y rapida de recursos de acuerdo a las necesidades.
+    - Escalabilidad rapida y facil basada en las necesidades.
+- **Measured service**
+    - El uso es medido, por lo que los usuarios pagan por los recursos usados.
+
+### Six Advantages of Cloud Computing
