@@ -76,3 +76,15 @@ nube usados por una organizacion, no son expuestos al publico.
     - El uso es medido, por lo que los usuarios pagan por los recursos usados.
 
 ### Six Advantages of Cloud Computing
+- **Trade capital expense(CAPEX) for operational expense (OPEX)**
+
+    Con el modelo *Pay On-Demand* no necesitas poseer el hardware necesario lo que reduce el coste total de propiedad (TCO) y el gasto operacional (OPEX)
+- **Benefit from massive economies on scale**
+
+    Los precios se reducen ya que AWS es mas eficiente por ser a gran escala.
+- **Stop guessing capacity**
+    Escalabilidad basada en el uso real.
+- **Increase speed and agility**
+- **Stop spending money running and mantaining data centers**
+- **Go global in minutes**
+    Aprovechando la infraestructura global de AWS.
