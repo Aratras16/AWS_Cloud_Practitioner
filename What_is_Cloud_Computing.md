@@ -30,8 +30,9 @@ Para que el cliente pueda encontrar el servidor y viceversa se necesita algo lla
 - Añadir o reemplazar hardware lleva tiempo.
 - La escalabilidad es limitada.
 - Se necesita tener un equipo 24/7 que monitoree la infraestructura.
-
+![alt text](image-2.png)
 Por ello una solucion para este problema es el computo en la nube (Cloud Computing)
 
 ## What is cloud computing?
+
 
