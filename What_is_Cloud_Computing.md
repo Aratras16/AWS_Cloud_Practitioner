@@ -20,7 +20,7 @@ Para que el cliente pueda encontrar el servidor y viceversa se necesita algo lla
     - Storage (Es la informacion que almacenamos pueden ser archivos, los datos no estan estructurados)
     - Database (Es la informacion almacenada de una manera estructurada)
     - Network (Son los cables,routers,switch y servidores conectados)
-        - Router (Es un dispositivo que envia paquetes de informacion entre conputadores en una red)
+        - Router (Es un dispositivo que envia paquetes de informacion entre computadoras en una red)
         - Switch (Toman un paquete de informacion y la envian al servidor o al cliente correcto)
 ![alt text](image-1.png)
 
