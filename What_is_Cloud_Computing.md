@@ -88,3 +88,17 @@ nube usados por una organizacion, no son expuestos al publico.
 - **Stop spending money running and mantaining data centers**
 - **Go global in minutes**
     Aprovechando la infraestructura global de AWS.
+
+### Problems solved by the Cloud
+- **Flexibility**
+    Cambia el tipo de recursos dependiendo las necesidades.
+- **Cost-Effectiveness**
+    Paga de acuerdo a lo usado.
+- **Scalability**
+    De acuerdo a las necesidades se puede usar hardware mas potente o añadir nodos adicionales.
+- **Elasticity**
+    Facilidad para escalar o desescalar de acuerdo a las necesidades.
+- **High-availability ad fault-tolerance**
+    Esto gracias a multiples centros de datos.
+- **Agility**
+    Facilidad para desarollar, testear y lanzar aplicaciones.
