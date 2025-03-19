@@ -104,3 +104,13 @@ nube usados por una organizacion, no son expuestos al publico.
     Esto gracias a multiples centros de datos.
 - **Agility**
     Facilidad para desarollar, testear y lanzar aplicaciones.
+
+## Types of Cloud Computing
+|Infraestructure as a service**IaaS**|Platform as a Service **PaaS**|Software as a Service **SaaS**|
+|---|---|---|
+| Provee los bloques necesarios para el computo en la nube|Remueve la necesidad de nuestra organizacion de manejar la infraestructura necesaria.| La totalidad del producto es ejecutada y manejada por el proveedor.|
+|Provee la red, computadoras y espacio de almacenamiento | Se centra en el lanzamiento y manejo de nuestras aplicaciones | |
+| Posee el mayor nivel de flexibilidad| | |
+| Es un analogo del tradicional **on-premises** | | |
+
+![alt text](image-3.png)
