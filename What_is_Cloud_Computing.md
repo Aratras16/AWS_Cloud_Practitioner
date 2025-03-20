@@ -143,15 +143,13 @@ La infraestructura de AWS esta compuesta por:
     Edge Locations son puntos estrategicamente posicionados de la red de AWS que permiten el envio de contenido con baja latencia, garantizando que la informacion llegue a los usuarios rapidamente. 
     ![alt text](image-6.png)
 
-> ¿Como elegir una region de AWS?
-
-    Para elegir una region de AWS debemos tomar en cuenta lo siguiente:
-    
-    - **Compliance** with data governance and legal requirements.
-        La informacion nunca debe dejar una region sin permiso explicito.
-    - **Proximity** to customers.
-        Buscamos que la region este cerca de los clientes para asi poder disminuir la latencia.
-    - **Available services** within a Region.
-        No todos los servicios y caracteristicas estan disponibles en todas las regiones.
-    - **Pricing**.
-        Los precios varian de region a region.
+### ¿Como elegir una region de AWS?
+Para elegir una region de AWS debemos tomar en cuenta lo siguiente:
+- **Compliance** with data governance and legal requirements.        
+    La informacion nunca debe dejar una region sin permiso explicito.
+- **Proximity** to customers.
+    Buscamos que la region este cerca de los clientes para asi poder disminuir la latencia.
+- **Available services** within a Region.
+    No todos los servicios y caracteristicas estan disponibles en todas las regiones.
+- **Pricing**.
+    Los precios varian de region a region.
