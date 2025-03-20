@@ -106,7 +106,7 @@ nube usados por una organizacion, no son expuestos al publico.
     Facilidad para desarollar, testear y lanzar aplicaciones.
 
 ## Types of Cloud Computing
-|Infraestructure as a service**IaaS**|Platform as a Service **PaaS**|Software as a Service **SaaS**|
+|Infraestructure as a service **IaaS**|Platform as a Service **PaaS**|Software as a Service **SaaS**|
 |---|---|---|
 | Provee los bloques necesarios para el computo en la nube|Remueve la necesidad de nuestra organizacion de manejar la infraestructura necesaria.| La totalidad del producto es ejecutada y manejada por el proveedor.|
 |Provee la red, computadoras y espacio de almacenamiento | Se centra en el lanzamiento y manejo de nuestras aplicaciones | |
@@ -114,3 +114,29 @@ nube usados por una organizacion, no son expuestos al publico.
 | Es un analogo del tradicional **on-premises** | | |
 
 ![alt text](image-3.png)
+
+## AWS Cloud Overview
+
+### AWS Cloud Use Cases 
+
+AWS te permite construir aplicaciones sofisticadas y escalables para distintos tipos de industrias. Entre los casos de uso estan :
+- Almacenamiento y Backup.
+- Analisis de datos.
+- Hosting de sitios web.
+- Aplicaciones para dispositivos moviles.
+
+### AWS Global Infraestructure
+
+La infraestructura de AWS esta compuesta por:
+- **Regions** 
+    Son ubicaciones fisicas alrededor del mundo donde estan agrupados varios data centers.
+    Cada Region de AWS esta compuesta por un minimo de 3 *Availability Zones* (max 6) aislados y fisicamente separados. 
+    ![alt text](image-5.png) 
+- **Availability Zones** 
+    Las *Availability Zones (AZ)* son uno o mas centros de datos con alimentacion, redes y conectividad independientes.
+    Estan separados entre ellos para mantenerse aislados en caso de desastres.
+    ![alt text](image-4.png)
+    Estan interconectados con una red de baja latencia y alto ancho de banda. 
+- **Data Centers** 
+- **Edge Locations/ Points of Presence** 
+    Edge Locations son puntos estrategicamente posicionados de la red de AWS que permiten el envio de contenido con baja latencia, garantizando que la informacion llegue a los usuarios rapidamente. 
