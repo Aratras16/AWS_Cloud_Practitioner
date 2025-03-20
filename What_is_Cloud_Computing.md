@@ -144,7 +144,9 @@ La infraestructura de AWS esta compuesta por:
     ![alt text](image-6.png)
 
 > ¿Como elegir una region de AWS?
+
     Para elegir una region de AWS debemos tomar en cuenta lo siguiente:
+    
     - **Compliance** with data governance and legal requirements.
         La informacion nunca debe dejar una region sin permiso explicito.
     - **Proximity** to customers.
