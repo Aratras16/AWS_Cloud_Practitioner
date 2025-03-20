@@ -135,8 +135,12 @@ La infraestructura de AWS esta compuesta por:
 - **Availability Zones** 
     Las *Availability Zones (AZ)* son uno o mas centros de datos con alimentacion, redes y conectividad independientes.
     Estan separados entre ellos para mantenerse aislados en caso de desastres.
-    ![alt text](image-4.png)
     Estan interconectados con una red de baja latencia y alto ancho de banda. 
+    ![alt text](image-4.png)
 - **Data Centers** 
+    Son las ubicaciones fisicas que almacenan las computadoras y todo el hardware relacionado. Contienen toda la infraestructura que requieren los sistemas de informacion, como son los servidores, los discos de almacenamento y el equipo de redes.
 - **Edge Locations/ Points of Presence** 
     Edge Locations son puntos estrategicamente posicionados de la red de AWS que permiten el envio de contenido con baja latencia, garantizando que la informacion llegue a los usuarios rapidamente. 
+    ![alt text](image-6.png)
+
+### ¿Como elegir una region de AWS?
