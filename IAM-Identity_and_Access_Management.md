@@ -12,3 +12,4 @@ Los grupos son creados para darles acceso a los usuarios a ciertas funciones de 
 - Los permisos **Policies** son documentos JSON que pueden ser asignados a usuarios o grupos, estos documentos describen que acciones pueden realizar dentro del entorno de AWS.
 - En AWS se debe aplicar el principio de menor privilegio, es decir, no le des a un usuario mas permisos de los que necesita.
 ![alt text](image-8.png)
+
