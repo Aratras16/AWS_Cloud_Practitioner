@@ -20,3 +20,19 @@ Los grupos son creados para darles acceso a los usuarios a ciertas funciones de 
 
 Al momento de crear un grupo a las personas pertenecientes a dicho grupo se les otorgan los permisos correspondientes al grupo en el que pertencen a esto se le conoce como herencia de permisos **Policies Inheritance**. Como nota hay que recordar que una persona puede pertenecer a varios grupos por lo cual tendra acceso a los servicios  que su grupo permita.
 ![alt text](image-10.png)
+
+## Estructura de un permiso
+
+Los permisos son archivos Json por lo que se ven de esta forma ![alt text](image-11.png)
+Estos archivos Json estan compuestos por una 
+    Version (obligatorio) ![alt text](image-12.png)
+    Id, Un identificador del permiso (opcional)![alt text](image-13.png)
+    Statement, una o mas instucciones (obligatorias)![alt text](image-14.png)
+
+Las Intrucciones se componen de 
+    Sid, un identificador de la instruccion (opcional)![alt text](image-15.png)
+    Effect, nos dice si la instruccion permiso o denega el acceso (Allow,Deny)![alt text](image-16.png)
+    Principal,la cuenta usuario, rol al cual el permiso es aplicado ![alt text](image-17.png)
+    Action, lista de acciones este permiso permite o denega ![alt text](image-18.png)
+    Resource, Lista de recursos a los que las acciones aplican ![alt text](image-19.png)
+    Conditions, las condiciones que dictan cuando el permiso esta activo (es opcional)
