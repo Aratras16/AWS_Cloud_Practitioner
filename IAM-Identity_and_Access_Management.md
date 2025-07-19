@@ -38,3 +38,18 @@ Las Intrucciones se componen de
     Conditions, las condiciones que dictan cuando el permiso esta activo (es opcional)
 
         Nota: Cuando en una politica en el Json aparece * significa que todo esta incluido
+
+## IAM - Password Policy
+Como cualquier cuenta, necesita tener una contraseña segura para tu cuenta, entre mas robusta tu contraseña mas segura la cuenta.
+En AWS , se puede crear una politica de contraseñas ,entre las cosas que puedes hacer para que tu contraseña sea robusta es    
+- Definir un minimo de longitud de la contraseña
+- uso de caracteres especificos:
+    - Mayusculas 
+    - Minusculas
+    - numeros
+    - Caracteres especiales
+- Permitir o denegar que las personas IAM puedan cambiar sus propias contraseñas
+- Requerir que los usuarios cambien sus contraselas despues de cierto tiempo (password expiration)
+- No permitir repetir contraseñas
+
+Otra manera de aumentar la seguridad de la cuenta es utilizando un MFA **Multi Factor Authenticator**
